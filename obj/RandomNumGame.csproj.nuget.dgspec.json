@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gizis\\Documents\\Code Bootcamp Pohjanmaa 2021\\DotNet\\RandomNumGame\\RandomNumGame.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gizis\\Documents\\Code Bootcamp Pohjanmaa 2021\\DotNet\\RandomNumGame\\RandomNumGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gizis\\Documents\\Code Bootcamp Pohjanmaa 2021\\DotNet\\RandomNumGame\\RandomNumGame.csproj",
+        "projectName": "RandomNumGame",
+        "projectPath": "C:\\Users\\gizis\\Documents\\Code Bootcamp Pohjanmaa 2021\\DotNet\\RandomNumGame\\RandomNumGame.csproj",
+        "packagesPath": "C:\\Users\\gizis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gizis\\Documents\\Code Bootcamp Pohjanmaa 2021\\DotNet\\RandomNumGame\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gizis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
